@@ -23,7 +23,7 @@
             border: black solid 1px;
         }
         
-        ul li {
+        li {
             display: inline-block;
             width: 43%;
             font-family: "ArialRegular";
@@ -35,14 +35,14 @@
             font-weight: bolder;
         }
         
-        .footer {
+        h1 {
             font-family: 'Pathway Gothic One', sans-serif;
             font-size: 25px;
             color: #263555;
             line-height: 49px;
         }
         
-        .smallfooter {
+        h3 {
             font-family: "ArialRegular";
             font-size: 14px;
             color: #263555;
