@@ -1,0 +1,65 @@
+        @font-face {
+            font-family: "ArialRegular";
+            src: url("../fonts/ArialRegular/ArialRegular.eot");
+            src: url("../fonts/ArialRegular/ArialRegular.eot?#iefix")format("embedded-opentype"), url("../fonts/ArialRegular/ArialRegular.woff") format("woff"), url("../fonts/ArialRegular/ArialRegular.ttf") format("truetype");
+            font-style: normal;
+            font-weight: normal;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        
+        .wrapper {
+            margin: 20px;
+        }
+        
+        body {
+            width: 480px;
+            margin: auto;
+            font-family: "ArialRegular";
+            font-size: 12px;
+            color: 4e5050;
+            line-height: 17px;
+        }
+        
+        ul li {
+            display: inline-block;
+            width: 43%;
+            font-family: "ArialRegular";
+            font-size: 14px;
+            color: #263555;
+            list-style-image: none;
+            line-height: 32px;
+            margin: 0px 0px 0px 23px;
+            font-weight: bolder;
+        }
+        
+        .footer {
+            font-family: 'Pathway Gothic One', sans-serif;
+            font-size: 25px;
+            color: #263555;
+            line-height: 49px;
+        }
+        
+        .smallfooter {
+            font-family: "ArialRegular";
+            font-size: 14px;
+            color: #263555;
+            line-height: 22px;
+            font-weight: bolder;
+            margin: 15px 0px 10px 0px;
+        }
+        
+        .img {
+            margin: 15px 0px 28px 0px;
+        }
+        
+        p {
+            margin-bottom: 15px;
+        }
+        
+        .list {
+            margin-left: 36px;
+        }
