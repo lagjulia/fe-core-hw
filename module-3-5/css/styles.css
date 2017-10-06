@@ -12,16 +12,15 @@
         }
         
         .wrapper {
-            margin: 20px;
-        }
-        
-        body {
+            box-sizing: border-box;
+            padding: 63px 38px 112px 36px;
             width: 480px;
             margin: auto;
             font-family: "ArialRegular";
             font-size: 12px;
-            color: 4e5050;
+            color: #666666;
             line-height: 17px;
+            border: black solid 1px;
         }
         
         ul li {
@@ -29,7 +28,7 @@
             width: 43%;
             font-family: "ArialRegular";
             font-size: 14px;
-            color: #263555;
+            color: #333366;
             list-style-image: none;
             line-height: 32px;
             margin: 0px 0px 0px 23px;
