@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "ArialRegular";
+    src: url("../fonts/ArialRegular/ArialRegular.eot");
+    src: url("../fonts/ArialRegular/ArialRegular.eot?#iefix")format("embedded-opentype"), url("../fonts/ArialRegular/ArialRegular.woff") format("woff"), url("../fonts/ArialRegular/ArialRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.background {
+    position: absolute;
+    width: 1920px;
+    height: 1795px;
+    overflow: hidden;
+}
+
+body {
+    width: 1920px;
+    height: 1725px;
+    background: scroll #c0cdf1 url(img/sea.jpg) center no-repeat;
+}
